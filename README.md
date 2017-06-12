@@ -8,3 +8,4 @@
 > import uploadImg from './upload-img.vue'
 
 > 把组件导入，就可以使用了。
+   
