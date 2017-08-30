@@ -34,7 +34,7 @@
 
 	}
 
-</script>
+</script>  
 <style scoped >
 	 .finish_room{
 		  width: auto;
