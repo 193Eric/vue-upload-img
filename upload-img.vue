@@ -6,7 +6,7 @@
        	   </div>
            <div class='room_add_btn'>
            	    <span>上传图片</span>
-           	    <input @change='add_img'  type="file">
+           	    <input @change='add_img'  type="file"> 
            </div>
        </div>
   </div>
